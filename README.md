@@ -8,5 +8,6 @@
 - For now Firefox, Fedora
 - Learning React
 
-- <img src=https://www.codewars.com/users/maciek367/badges/large>
+<img src=https://www.codewars.com/users/maciek367/badges/large>
+
 - Top 5k on Codewars (top ~ 1%)
