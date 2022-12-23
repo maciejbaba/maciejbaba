@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maciek (pronounce  Ma-ts-e-ek) I enjoy programming and I can't imagine day without writing at least one line of code, watching something related to coding or typing some kind of command.
+- 👋 Hi, I’m Maciek (pronounce  Ma-ts-e-ek) I love programming and I can't imagine day without writing at least one line of code, watching something related to coding or typing some kind of command.
 
 - Main focus on Full Stack Web Development
 
@@ -6,10 +6,10 @@
 - I also like old "trash" cars like seicento, polonez, golf 3 etc. I enjoy walks, reading books, physics, maths, electronics, psychology. I know nice combination :)
 - No alcohol nor smoking, I totally hate radio and ads :D
 
-- Comfortable with JS, TS, HTML, CSS, Python, SQL, Linux, Windows
+- I know JS, TS, HTML, CSS, Python, SQL, Linux, Windows, Git
 
-- For now Firefox, Fedora
-- Learning React, Tailwind, Ruby
+- For now Firefox DE, Fedora
+- Learning React, Tailwind, Ruby, Git, CI/CD
 
 <img src=https://www.codewars.com/users/maciek367/badges/large>
 
