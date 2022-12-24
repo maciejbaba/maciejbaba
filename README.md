@@ -4,7 +4,7 @@
 
 - I like in general everything that is related to computers / machines.
 - I also like old "trash" cars like seicento, polonez, golf 3 etc. I enjoy walks, reading books, physics, maths, electronics, psychology. I know nice combination :)
-- No alcohol nor smoking, I totally hate radio and ads :D
+- No alcohol nor smoking, I totally hate radio and ads
 
 - I know JS, TS, HTML, CSS, Python, SQL, Linux, Windows, Git
 
