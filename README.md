@@ -9,7 +9,7 @@
 - I know JS, TS, HTML, CSS, Python, SQL, Linux, Windows, Git
 
 - For now Firefox DE, Fedora
-- Learning React, Tailwind, Ruby, Git, CI/CD
+- Learning React, Tailwind, Ruby, Git, CI/CD, C
 
 <img src=https://www.codewars.com/users/maciek367/badges/large>
 
