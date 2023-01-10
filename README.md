@@ -13,8 +13,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maciek367&count_private=true&theme=radical)
 
-# todo finish updating readme
-
 In general, I enjoy everything that is related to computers or other machines but for me programming is something that "clicks", because of the brain work that you have to do in order to solve a problem. I can't explain how much I value and like that kind of brain activity.
 I like old "trash" cars like seicento, polonez, golf 3 and so forth. I enjoy walks, reading books, physics, maths, electronics, psychology. I know nice combination :)
 I don't drink or smoke, I totally hate radio and ads.
