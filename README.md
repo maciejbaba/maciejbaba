@@ -11,7 +11,7 @@
 ## Top 5k on Codewars (top ~ 1%)
 <img src=https://www.codewars.com/users/maciek367/badges/large>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maciek367&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Maciej's Github Stats" src="https://github-readme-stats-taupe-tau.vercel.app/api?username=maciek367&count_private=true&theme=radical">
 
 In general, I enjoy everything that is related to computers or other machines but for me programming is something that "clicks", because of the brain work that you have to do in order to solve a problem. I can't explain how much I value and like that kind of brain activity.
 I like old "trash" cars like seicento, polonez, golf 3 and so forth. I enjoy walks, reading books, physics, maths, electronics, psychology. I know nice combination :)
