@@ -2,11 +2,11 @@
 
 ## Main focus on Full Stack Development
 
-#### I know JS, TS, HTML, CSS, Python, SQL, Linux, Windows, Git
+#### I know JS, TS, HTML, CSS, SQL, Linux, Windows, Git
 
 #### For now Firefox DE, Fedora/Ubuntu/Windows, VS code
 
-#### Learning React, Tailwind, Git, CI/CD, T3 stack, Express, TDD, OOP
+#### Learning React, Tailwind, Git, CI/CD, T3 stack, Express, TDD, OOP, Python, REST API, Node
 
 ## Top 5k on Codewars (top ~ 1%)
 <img src=https://www.codewars.com/users/maciek367/badges/large>
@@ -17,4 +17,4 @@ In general, I enjoy everything that is related to computers or other machines bu
 I like old "trash" cars like seicento, polonez, golf 3 and so forth. I enjoy walks, reading books, physics, maths, electronics, psychology. I know nice combination :)
 I don't drink or smoke, I totally hate radio and ads, no social media.
 
-Trying to commit everyday!
+Trying my best to commit everyday!
