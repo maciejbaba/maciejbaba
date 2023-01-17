@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Maciek (pronounce  Ma-ts-e-ek) I adore programming and I can't imagine a day without writing at least one line of code, viewing programming-related content or typing some sort of command.
+### 👋 Hi, I’m Maciek (pronounce  Ma-ts-e-ek) I adore programming and I can't imagine a day without writing at least one line of code, viewing programming-related content or typing some sort of command
 
 ## Main focus on Full Stack Development
 
@@ -6,15 +6,17 @@
 
 #### For now Firefox DE, Fedora/Ubuntu/Windows, VS code
 
-#### Learning React, Tailwind, Git, CI/CD, T3 stack, Express, TDD, OOP, Python, REST API, Node
+#### Learning React, Tailwind, Git, CI/CD, Express, TDD, OOP, Python, REST API, Node
+
+#### Planning to learn Redux, DDD, MongoDB, T3 Stack, tRPC, C, C++
 
 ## Top 5k on Codewars (top ~ 1%)
 <img src=https://www.codewars.com/users/maciek367/badges/large>
 
 <img alt="Maciej's Github Stats" src="https://github-readme-stats-taupe-tau.vercel.app/api?username=maciek367&count_private=true&theme=radical">
 
-In general, I enjoy everything that is related to computers or other machines but for me programming is something that "clicks", because of the brain work that you have to do in order to solve a problem. I can't explain how much I value and like that kind of brain activity.
+In general, I enjoy everything that is related to computers or other machines but for me programming is something that "clicks", because of the brain work that you have to do in order to solve a problem. I can't explain how much I value and like that kind of brain activity
 I like old "trash" cars like seicento, polonez, golf 3 and so forth. I enjoy walks, reading books, physics, maths, electronics, psychology. I know nice combination :)
-I don't drink or smoke, I totally hate radio and ads, no social media.
+I don't drink or smoke, I totally hate radio and ads, no social media
 
 Trying my best to commit everyday!
