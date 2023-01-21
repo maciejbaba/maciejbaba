@@ -6,7 +6,7 @@
 
 #### For now Firefox DE, Fedora/Ubuntu/Windows, VS code
 
-#### Learning React, Tailwind, Git, CI/CD, Express, TDD, OOP, Python, REST API, Node
+#### Learning React, Tailwind, Git, CI/CD, Express, TDD, OOP, Python, REST API, Node, Algorithms
 
 #### Planning to learn Redux, DDD, MongoDB, T3 Stack, tRPC, C, C++
 
