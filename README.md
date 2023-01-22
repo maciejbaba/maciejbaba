@@ -1,14 +1,14 @@
-### 👋 Hi, I’m Maciek (pronounce  Ma-ts-e-ek) I adore programming and I can't imagine a day without writing at least one line of code, viewing programming-related content or typing some sort of command
+### 👋 Hi, I’m Maciek (pronounce  Ma-ts-e-ek) I adore programming and I can't imagine a day without writing at least one line of code, viewing programming-related content, reading about new stuff or typing some sort of command
 
 ## Main focus on Full Stack Development
 
 #### I know JS, TS, HTML, CSS, SQL, Linux, Windows, Git
 
-#### For now Firefox DE, Fedora/Ubuntu/Windows, VS code
+#### For now Firefox DE, Google Chrome, Fedora/Ubuntu/Windows, VS code
 
-#### Learning React, Tailwind, Git, CI/CD, Express, TDD, OOP, Python, REST API, Node, Algorithms
+#### Learning React, Tailwind, Git, CI/CD, Express, Python, REST API, Node, Algorithms
 
-#### Planning to learn Redux, DDD, MongoDB, T3 Stack, tRPC, C, C++
+#### Planning to learn Redux, DDD, TDD, Unit testing, OOP, MongoDB, T3 Stack, tRPC, C, C++
 
 ## Top 5k on Codewars (top ~ 1%)
 <img src=https://www.codewars.com/users/maciek367/badges/large>
