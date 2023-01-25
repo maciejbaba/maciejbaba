@@ -6,9 +6,9 @@
 
 #### For now Firefox DE, Chrome, Fedora/Ubuntu/Windows, VS code
 
-#### Learning React, Tailwind, Git, CI/CD, Express, Python, REST API, Node, Algorithms
+#### Learning MERN, Tailwind, Git, CI/CD, REST API, Algorithms
 
-#### Planning to learn Redux, DDD, TDD, Unit testing, OOP, MongoDB, T3 Stack, tRPC, C, C++, C# or Java
+#### Planning to learn Redux, DDD, TDD, Unit testing, OOP, T3 Stack, C or C++, C# or Java
 
 ## Top 5k on Codewars (top 1%)
 <img src=https://www.codewars.com/users/maciek367/badges/large alt="Maciej's Codewars points">
