@@ -2,11 +2,11 @@
 
 ## Main focus on Full Stack Development
 
-#### I'm familiar with JS, TS, HTML, CSS, SQL, Linux, Windows, Git
+#### I'm familiar with JS, HTML, CSS, SQL, Linux, Windows, Git
 
 #### For now Firefox DE, Chrome, Fedora/Ubuntu/Windows, VS code
 
-#### Learning MERN, Redux, Tailwind, Git, CI/CD, REST API, Algorithms, Unit Testing
+#### Learning TS, MERN, Redux, Tailwind, Git, CI/CD, REST API, Algorithms, Unit Testing
 
 #### Planning to learn DDD, TDD, OOP, T3 Stack, C or C++, C# or Java
 
