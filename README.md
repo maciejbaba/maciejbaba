@@ -17,6 +17,6 @@
 
 In general, I enjoy everything that is related to computers or other machines but for me programming is something that "clicks", because of the brain activity that you have to do in order to solve a particular problem and also because of the fact that you are constantly inside your head. I can't explain how much I value and like something like that.
 I like old "trash" cars like seicento, polonez, golf 3, audi 80 and so forth. I enjoy walks, reading books, physics, maths, electronics, psychology. I know nice combination :)
-I don't drink or smoke, I totally hate radio and ads, no social media
+I don't drink or smoke, I totally hate radio and ads
 
 Trying my best to commit everyday!
