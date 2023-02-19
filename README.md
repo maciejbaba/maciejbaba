@@ -8,7 +8,7 @@
 
 #### Learning TS, MERN, Redux, Tailwind, Git, CI/CD, REST API, Algorithms, Unit Testing
 
-#### Planning to learn Docker, Webpack, DDD, TDD, OOP, T3 Stack, Next.js, C or C++, C# or Java (one typical backend OOP language)
+#### Planning to learn Docker, Webpack, DDD, TDD, OOP, T3 Stack, Next.js, C or C++, C# or Java ( one typical backend OOP language )
 
 ## Top <5k on [Codewars](https://www.codewars.com/users/maciek367/stats) ( top <1% )
 <img src=https://www.codewars.com/users/maciek367/badges/large alt="Maciej's Codewars points">
