@@ -19,8 +19,6 @@ In general, I enjoy everything that is related to computers or other machines bu
 I like old "trash" cars like seicento, polonez, golf 3, audi 80 and so forth (they are cheap and robust - there is no need to care about them). I enjoy walks, reading books, physics, maths, electronics, psychology. I know nice combination :)
 I don't drink or smoke, I totally hate radio and ads
 
-Trying my best to commit everyday!
-
 ### Visitors Count
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
