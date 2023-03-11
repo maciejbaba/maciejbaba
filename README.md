@@ -6,7 +6,7 @@
 
 #### For now Firefox DE, Chrome, Fedora/Ubuntu/Windows, VS code
 
-#### Learning TS, MERN, Redux and RTK, Tailwind, Git, CI/CD, REST API, Algorithms, Unit Testing
+#### Learning TS, MERN, RTK, Tailwind, Git, CI/CD, REST API, Algorithms, Unit Testing
 
 #### Planning to learn Docker, Webpack, DDD, TDD, OOP, T3 Stack, Next.js, C or C++, C# or Java ( one typical backend OOP language )
 
