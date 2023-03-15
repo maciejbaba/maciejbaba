@@ -10,7 +10,7 @@
 
 #### Planning to learn Docker, Webpack, DDD, TDD, OOP, T3 Stack, Next.js, C or C++, C# or Java ( one typical backend OOP language )
 
-## Top <5k on [Codewars](https://www.codewars.com/users/maciek367/stats) ( top <1% )
+## Top 5k on [Codewars](https://www.codewars.com/users/maciek367/stats) ( top 1% )
 <img src=https://www.codewars.com/users/maciek367/badges/large alt="Maciej's Codewars points">
 
 <img alt="Maciej's Github Stats" src="https://github-readme-stats-taupe-tau.vercel.app/api?username=maciek367&count_private=true&theme=tokyonight">
