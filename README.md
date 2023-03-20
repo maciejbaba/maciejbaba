@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Maciek ( pronounce  Ma-ts-e-ek ) I adore programming and I can't imagine a day without writing at least one line of code, viewing programming-related content, reading about new stuff or typing some sort of command. I also read about old stuff and how the whole IT world works ( it's so interesting, under all of it almost always is math which I like ) i.e. video transfer ( DCT algorithm )
+### 👋 Hi, I’m Maciek ( pronounce  Ma-ts-e-ek ) I adore programming and I can't imagine a day without writing at least one line of code, viewing programming-related content, reading about new stuff or typing some sort of command. I also read about old stuff and how the whole IT world works ( it's so interesting, under all of it almost always is math which I like ) i.e. video transfer and JPEG ( DCT algorithm )
 
 ## Main focus on Full Stack Development
 
@@ -16,8 +16,7 @@
 <img alt="Maciej's Github Stats" src="https://github-readme-stats-taupe-tau.vercel.app/api?username=maciek367&count_private=true&theme=tokyonight">
 
 In general, I enjoy everything that is related to computers or other machines but for me programming is something that "clicks" because of the brain activity that you have to do in order to solve a particular problem and also because of the fact that you are constantly inside your head. I can't explain how much I value something like that.
-I like old "trash" cars like seicento, polonez, golf 3, audi 80 and so forth (they are cheap and robust - there is no need to care about them). I enjoy walks, reading books, physics, maths, electronics, psychology. I know nice combination :)
-I don't drink or smoke, I totally hate radio and ads
+I like old "trash" cars like seicento, polonez, golf 3, audi 80 and so forth (they are cheap and robust - there is no need to care about them).
 
 ### Visitors Count
 
