@@ -15,7 +15,7 @@
 
 <img alt="Maciej's Github Stats" src="https://github-readme-stats-taupe-tau.vercel.app/api?username=maciek367&count_private=true&theme=tokyonight">
 
-In general, I enjoy everything that is related to computers or other machines but I find programming the most interesting, one of the reasons is high level of brain activity.
+In general, I am interested in everything that is related to computers or other machines but I find programming the most interesting, one of the reasons is high level of brain activity during doing it.
 
 I like old "trash" cars like seicento, polonez, golf 3, audi 80 and so forth (they are cheap and robust - there is no need to care about them).
 
