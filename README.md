@@ -2,7 +2,7 @@
 
 ## Main focus on Full Stack Development
 
-#### I'm familiar with JS, HTML, CSS, SQL, Linux, Windows, Git
+#### I'm familiar with JS, TS, HTML, CSS, SQL, Linux, Windows, Git, React, Tailwind
 
 #### For now Firefox DE, Chrome, Fedora/Ubuntu/Windows, VS code
 
@@ -11,7 +11,7 @@
 #### Planning to learn Docker, Webpack, DDD, TDD, OOP, T3 Stack, Next.js, C or C++, C# or Java (one typical backend OOP language)
 
 ## Top 5k on [Codewars](https://www.codewars.com/users/maciek367/stats) (top 1%)
-<img src=https://www.codewars.com/users/maciek367/badges/large alt="Maciej's Codewars points">
+<img src=https://www.codewars.com/users/maciek367/badges/large alt="Maciej's Codewars account points">
 
 <img alt="Maciej's Github Stats" src="https://github-readme-stats-taupe-tau.vercel.app/api?username=maciek367&count_private=true&theme=tokyonight">
 
@@ -23,7 +23,7 @@ I like old "trash" cars like seicento, polonez, golf 3, audi 80 and so forth (th
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
-                                                                                                                                                                            typeof NaN is number
+                                                                                                                                                                                                                                                                                    tYpEoF NaN iS nUmBeR
 
 
 <strong>mood</strong>
