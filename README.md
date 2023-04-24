@@ -27,7 +27,7 @@ I like old "trash" cars like seicento, polonez, golf 3, audi 80 and so forth (th
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
-                                                                                                                                                                                                                                                                                    tYpEoF NaN iS nUmBeR
+                                                                                                                                                                                                                                                                                    typeof NaN is number
 
 
 <strong>mood</strong>
