@@ -2,7 +2,7 @@
   
 ### 👋 Hi, I’m Maciej (pronounce  Ma-che-y) I adore programming and I can't imagine a day without writing at least one line of code, viewing programming-related content, reading about new stuff or typing some sort of command. I also read about old stuff and how the whole IT world works (it's so interesting, under all of it is math) i.e. video transfer and JPEG (DCT algorithm)
 
-## Main focus on Full Stack Development
+## Focusing on Full Stack Development
 
 #### I'm familiar with JS, TS, HTML, CSS, SQL, Linux, Windows, Git, React, Tailwind
 
