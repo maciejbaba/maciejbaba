@@ -4,13 +4,13 @@
 
 ## Focusing on Full Stack Development
 
-#### I'm familiar with JS, TS, HTML, CSS, SQL, Linux, Windows, Git, React, Tailwind
+#### I'm familiar with JS, HTML, CSS, SQL, Linux, Windows, Git, React, Tailwind
 
 #### For now Firefox DE, Chrome, Fedora/Ubuntu/Windows, VS code
 
-#### Learning TS, MERN, RTK, Tailwind, Git, CI/CD, REST API, Algorithms, Unit Testing
+#### Learning TS, RTK, Git, CI/CD, REST API, Algorithms, Unit Testing, Vite, Vitest, Jest, Next.js, C, Java, OOP, MongoDB
 
-#### Planning to learn Docker, Webpack, DDD, TDD, OOP, T3 Stack, Next.js, C or C++, C# or Java (one typical backend OOP language)
+#### Planning to learn Docker, Webpack, DDD, TDD, T3 Stack, C++, C#
 
 ## Top 5k on [Codewars](https://www.codewars.com/users/maciejbaba/stats) (top 1%)
 <img src=https://www.codewars.com/users/maciejbaba/badges/large alt="Maciej's Codewars account points">
