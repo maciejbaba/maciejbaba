@@ -10,7 +10,7 @@
 
 #### For now Firefox DE, Chrome, Fedora/Ubuntu/Windows, VS code
 
-#### Learning TS, RTK, Git, CI/CD, REST API, Algorithms, Unit Testing, Vite, Vitest, Jest, Next.js, C, Java, OOP, MongoDB
+#### Learning Vue, TS, RTK, Git, CI/CD, REST API, Algorithms, Unit Testing, Vite, Vitest, Jest, Next.js, C, Java, OOP, MongoDB
 
 #### Planning to learn Docker, Webpack, DDD, TDD, T3 Stack, C++, C#
 
