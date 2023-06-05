@@ -6,7 +6,7 @@
   
 ## Focusing on Full Stack Development
 
-#### I'm familiar with JS, HTML, CSS, SQL, Linux, Windows, Git, React, Tailwind
+#### I know JS, HTML, CSS, SQL, Linux, Windows, Git, React, Tailwind
 
 #### For now Firefox DE, Chrome, Fedora/Ubuntu/Windows, VS code
 
