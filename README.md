@@ -1,12 +1,8 @@
 <div align="center">
   
-### 👋 Hi, I’m Maciej I adore programming and I can't imagine a day without writing at least one line of code, viewing programming-related content, reading about new stuff or typing some sort of command. I also read about old stuff and how the whole IT world works (it's so interesting, under all of it is math and numbers) i.e. video transfer and JPEG (DCT algorithm), memory management.
-
-### In general, I am interested in everything that is related to computers or other machines but I find programming most interesting.
+### 👋 Hi, I’m Maciej I adore programming and I can't imagine a day without writing at least one line of code, viewing programming-related content, reading about new stuff or typing some sort of command.
 
 ### I also love electronics and mechanics. So in my free time except programming I tinker with cars and electronic devices.
-  
-## Focusing on Full Stack Development
 
 #### For now Firefox DE, Chrome, Fedora/Ubuntu/Windows, VS code
 
@@ -19,10 +15,6 @@
 <br/><br/>
 
 I like old "trash" cars like seicento, polonez, golf 3, audi 80 and so forth (they are cheap and robust) and fairly easy to repair.
-
-### Visitors Count
-
-![](https://komarev.com/ghpvc/?username=your-github-username)
 
                                                                                                                                                                                                                                                                                     typeof NaN is number
 
