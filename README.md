@@ -8,13 +8,7 @@
   
 ## Focusing on Full Stack Development
 
-#### I know JS, HTML, CSS, SQL, Linux, Windows, Git, React, Tailwind
-
 #### For now Firefox DE, Chrome, Fedora/Ubuntu/Windows, VS code
-
-#### Learning Vue, TS, RTK, Git, CI/CD, REST API, Algorithms, Unit Testing, Vite, Vitest, Jest, Next.js, C, Java, OOP, MongoDB
-
-#### Planning to learn Docker, Webpack, DDD, TDD, T3 Stack, C++, C#
 
 ## Top 5k on [Codewars](https://www.codewars.com/users/maciejbaba/stats) (top 1%)
 <img src="https://www.codewars.com/users/maciejbaba/badges/large" alt="Maciej's Codewars account points">
