@@ -1,8 +1,8 @@
 <div align="center">
   
-### 👋 Hi, I’m Maciej I adore programming and I can't imagine a day without writing at least one line of code, viewing programming-related content, reading about new stuff or typing some sort of command.
+### 👋 Hi, I’m Maciej. I program.
 
-### I also love electronics and mechanics. So in my free time except programming I tinker with cars and electronic devices.
+### I like electronics and mechanics. So in my free time except programming I tinker with cars and electronic devices.
 
 ### For now Firefox DE, Chrome, Fedora/Ubuntu/Windows, VS code
 
