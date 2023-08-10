@@ -19,5 +19,4 @@ I like old "trash" cars like seicento, polonez, golf 3, audi 80 and so forth (th
                                                                                                                                                                                                                                                                                     typeof NaN is number
 
 
-![RmRH](https://user-images.githubusercontent.com/81487891/232110692-0798aa9a-758a-4511-b676-6531cb5053d8.gif)
 </div>
