@@ -4,7 +4,7 @@
 
 ### I like electronics and mechanics. So in my free time except programming I tinker with cars and electronic devices.
 
-### For now Firefox DE, Chrome, Fedora/Ubuntu/Windows, VS code
+### For now Chrome, Fedora/Ubuntu/Windows/UbuntuServer, VS code
 
 ## Top 5k on [Codewars](https://www.codewars.com/users/maciejbaba/stats) (top 1%)
 <img src="https://www.codewars.com/users/maciejbaba/badges/large" alt="Maciej's Codewars account points">
