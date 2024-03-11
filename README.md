@@ -2,7 +2,7 @@
   
 ### 👋 Hi, I’m Maciej. I program.
 
-### I like electronics and mechanics. So in my free time except programming I tinker with cars and electronics.
+### I like electronics and mechanics. So in my free time except programming I tinker with cars and electronic devices.
 
 ### Ofc nvim and ofc arch
 
