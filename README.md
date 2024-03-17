@@ -2,9 +2,9 @@
   
 ### 👋 Hi, I’m Maciej. I program.
 
-### I like electronics and mechanics. So in my free time except programming I tinker with cars and electronic devices.
+### I like electronics and mechanics, so in my free time except programming I tinker with cars and electronic devices.
 
-### Ofc nvim and ofc arch
+### Ofc nvim and ofc arch but I have no issue using Visual Studio Code nor Windows
 
 ## Top 5k on [Codewars](https://www.codewars.com/users/maciejbaba/stats) (top 1%)
 <img src="https://www.codewars.com/users/maciejbaba/badges/large" alt="Maciej's Codewars account points">
