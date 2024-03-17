@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-I like old "trash" cars like seicento, polonez, golf 3, audi 80 and so forth (they are cheap and robust) and fairly easy to repair.
+I like old "trash" cars like seicento, polonez, golf 3, audi 80 and so forth (they are cheap and robust) and dirt simple to repair.
 
 "If time was on my side I'd still have none to waste."
 
