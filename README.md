@@ -4,7 +4,7 @@
 
 ### I like electronics and mechanics, so in my free time except programming I tinker with cars and electronic devices.
 
-### Ofc nvim and ofc arch but I have no issue using Visual Studio Code nor Windows
+### Ofc nvim and ofc arch linux
 
 ## Top 5k on [Codewars](https://www.codewars.com/users/maciejbaba/stats) (top 1%)
 <img src="https://www.codewars.com/users/maciejbaba/badges/large" alt="Maciej's Codewars account points">
