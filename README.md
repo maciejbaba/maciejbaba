@@ -1,24 +1,41 @@
-<div align="center">
-  
-### 👋 Hi, I’m Maciej. I program.
+# 👋 Hi, I'm Maciej
 
-### I like electronics and mechanics, so in my free time except programming I tinker with cars and electronic devices.
+## About Me
+I'm a passionate programmer with a love for electronics and mechanics. When I'm not coding, you'll find me tinkering with cars and electronic devices.
 
-### Ofc nvim and ofc arch linux
+### 🖥️ Tech Preferences
+- **Editor:** Neovim (nvim)
+- **OS:** Arch Linux
 
-## Top 5k on [Codewars](https://www.codewars.com/users/maciejbaba/stats) (top 1%)
+### 💻 Coding Achievements
+- Top 5k on [Codewars](https://www.codewars.com/users/maciejbaba/stats) (top 1%)
+
 <img src="https://www.codewars.com/users/maciejbaba/badges/large" alt="Maciej's Codewars account points">
-<br/><br/>
-  
+
 <img alt="Maciej's Github Stats" src="https://github-readme-stats-taupe-tau.vercel.app/api?username=maciejbaba&count_private=true&theme=tokyonight">
 
-<br/><br/>
+## 🚗 Automotive Interests
+I have a soft spot for what some might call "trash" cars. I prefer to think of them as hidden gems:
 
-I like old "trash" cars like seicento, polonez, golf 3, audi 80 and so forth (they are cheap and robust) and dirt simple to repair.
+- Fiat Seicento
+- Polonez
+- Volkswagen Golf 3
+- Audi 80
 
-"If time was on my side I'd still have none to waste."
+Why? They're cheap, robust, and delightfully simple to repair.
+
+## 🛠️ DIY Philosophy
+Whether it's coding, electronics or cars, I believe in getting my hands dirty. There's no problem that can't be solved with a bit of ingenuity and elbow grease.
+
+---
+
+Feel free to explore my repositories and don't hesitate to reach out if you want to discuss code, cars, or anything in between!
+
+
+
+
+
+💡 Did You Know?
 
                                                                                                                                                                                                                                                                                     typeof NaN is number
 
-
-</div>
