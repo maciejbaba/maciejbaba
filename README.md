@@ -15,7 +15,7 @@ I'm a passionate programmer with a love for electronics and mechanics. When I'm 
 <img alt="Maciej's Github Stats" src="https://github-readme-stats-taupe-tau.vercel.app/api?username=maciejbaba&count_private=true&theme=tokyonight">
 
 ## 🚗 Automotive Interests
-I have a soft spot for what some might call "trash" cars. I prefer to think of them as hidden gems:
+I have a soft spot for what some might call "trash" cars such as:
 
 - Fiat Seicento
 - Polonez
