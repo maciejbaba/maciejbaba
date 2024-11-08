@@ -4,7 +4,7 @@
 I'm a passionate programmer with a love for electronics and mechanics. When I'm not coding, you'll find me tinkering with cars and electronic devices.
 
 ### 🖥️ Tech Preferences
-- **Editor:** Neovim (nvim)
+- **Editor:** Neovim (nvim), VSCode
 - **OS:** Arch Linux
 
 ### 💻 Coding Achievements
